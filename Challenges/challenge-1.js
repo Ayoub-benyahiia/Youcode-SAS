@@ -11,5 +11,3 @@ console.log(Age);
 console.log(score);
 console.log(pays);
 
-
-// Challenge 2 : Conversion de monnaie
