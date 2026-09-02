@@ -11,7 +11,7 @@ rl.question("enter le montant de la commande", (montant) => {
         console.log("livraison gratuit")
         console.log("le montant final à payer", (montantcommande))
     }
-    else //(montantcommande < 500)
+    else (montantcommande < 500)
     {
         console.log("Livraison = 40")
         console.log("le montant final à payer", (montantcommande + 40))
