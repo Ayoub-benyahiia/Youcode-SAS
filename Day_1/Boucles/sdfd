@@ -1,0 +1,3 @@
+var n = prompt('entree le nombre? ');
+let a;
+console.log(a)
