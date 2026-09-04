@@ -1,6 +1,6 @@
-//Challenges JavaScript : Les Fonctions (avec et sans paramètres)
-//Challenge 1 : Le Salueur Automatique
+// Challenge 1 : Le Salueur Automatique
+const prompt = require('prompt-sync')();
 function afficherBienvenue(){
-    console.log("bonjour tout le monde")
-}
+console.log("Bienvenue dans le cours de JavaScript ! Bonne chance.")
+};
 afficherBienvenue();
