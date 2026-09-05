@@ -1,12 +1,13 @@
 // challenge in bloucles
-let prompt = require("prompt-sync")();
-let n = +prompt("entrer your number: ");
-let i = 1;
-while (i <= n) {
-    if (i % 2 === 0) {
-        console.log(i + " est pair");
-    } else {
-        console.log(i + " est impair");
+let prompt = require(prompt - sync)();
+let nombre = +prompt("entrer your number");
+let count = 0;
+while (nombre <= 0) {
+    if (nombre % 2 != 0) {
+        count++;
     }
-    i++;
-}
+    else {
+        nombre++;
+    }
+    console.log(count);
+};
