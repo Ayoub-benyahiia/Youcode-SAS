@@ -18,6 +18,7 @@ let person = {
 };
 //let i 
 for (let i in person) {
-console.log(i,person[i]);
+console.log(i,":",person[i]);
 
 };
+console.log("Im "+ person.firstName + " " +person.lastName +" "+ person.age + " livng in " + person.city)
