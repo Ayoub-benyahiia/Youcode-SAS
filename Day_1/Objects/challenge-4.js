@@ -14,4 +14,4 @@ employee.pénalité = prompt("entre your penality")
 
 let salairefinal = employee.salary + employee.bonus - employee.pénalité
 
-console.log("leur salire fina is : " + salairefinal)
+console.log("leur salire final is : " + salairefinal)
