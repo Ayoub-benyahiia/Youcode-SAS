@@ -1,6 +1,6 @@
 // Challenge 02 — Modifier un profil
 //**Niveau : 1 **
-const prompt= require('prompt-sync')()
+const prompt= require('prompt-sync')();
 let user = {
     username: "Ahmed",
     age: 22,

@@ -1,4 +1,4 @@
-// Challenge 05 — Gestion d'un compte bancaire
+// Challenge 04 — Gestion d'un compte bancaire
 const prompt = require('prompt-sync')()
 let employee = {
     firstName: "Sara",
